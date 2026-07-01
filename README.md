@@ -26,5 +26,5 @@
 
 # \## Notes
 
-# I am learning how to build decentralized applications and explore blockchain technology.
+# I am learning how to build decentralized applications and explore blockchain technology.Update on July 1, 2026
 
